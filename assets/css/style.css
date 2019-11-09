@@ -1,3 +1,21 @@
+@import url('https://fonts.googleapis.com/css?family=Merriweather:500,600,700|Roboto:300,400,500');
+
+* {
+    margin: 0;
+    padding: 0;
+    border: 0;
+}
+
 body {
-    font-family: Arial;
+    font-family: 'Roboto', sans-serif;
+    color: #696969;
+}
+
+#logo {
+    float: left;
+}
+
+#logo h2 {
+    font-family: 'Merriweather', serif;
+    color: #4682b4;
 }

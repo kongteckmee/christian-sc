@@ -8,7 +8,7 @@
 
 body {
     font-family: 'Roboto', sans-serif;
-    color: #696969;
+    color: #696969; /*Grey color */
 }
 
 /* ------------------------------------------------------ Header */
@@ -21,7 +21,7 @@ body {
 #logo h2 {
     font-family: 'Merriweather', serif;
     font-size: 200%;
-    color: #4682b4;
+    color: #4682b4; /* Steel Blue color */
     text-shadow: 2px 2px 4px #808080;
 }
 
@@ -46,7 +46,12 @@ body {
 }
 
 #scmenu a:hover {
-    color: #4682b4;
+    color: #4682b4; /* Steel Blue color */
+    font-weight: 500;
+    text-shadow: 2px 2px 4px #808080;
+}
+
+.scactive {
     font-weight: 500;
     text-shadow: 2px 2px 4px #808080;
 }
@@ -54,7 +59,54 @@ body {
 /* ------------------------------------------------------ Section: Welcome */
 
 #scmeeting {
-    height: 600px;
+    height: 700px;
     width: 100%;
-    background-repeat: no-repeat;
+    background: url("../img/meeting-t.jpg") no-repeat center center
 }
+
+#scmeetingrange {
+    height: 700px;
+    width: 100%;
+    overflow: hidden;
+}
+
+#welcome-text {
+    width: 400px;
+    height: 220px;
+    color: #fefcff; /* Milky white */
+    background-color: rgba(212,175,55,.7);
+    padding-top:20px;
+    bottom: 35px; /* Fixed the welcome text box-bottom */
+    right: 100px; /* Fixed the welcome text box-right */
+    position: absolute;
+}
+
+#welcome-text h1 {
+    margin-bottom: 5px;
+    font-size: 300%;
+    font-family: 'Merriweather', serif;
+    text-transform: uppercase;
+    text-align: center;
+    letter-spacing: 4px;
+}
+
+hr {
+    width: 80%;
+    height: 3px;
+    margin-left: auto;
+    margin-right: auto;
+    background-color:#fefcff; /* Milky white */
+}
+
+#welcome-text h3 {
+    margin: 20px;
+    font-size: 130%;
+    font-family: 'Roboto', sans-serif;
+    text-align: center;
+}
+
+/* ------------------------------------------------------ Section: About */
+
+/* ------------------------------------------------------ Section: Event */
+
+/* ------------------------------------------------------ Footer */

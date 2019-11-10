@@ -17,5 +17,7 @@ body {
 
 #logo h2 {
     font-family: 'Merriweather', serif;
+    font-size: 200%;
     color: #4682b4;
+    text-shadow: 2px 2px 4px #808080;
 }

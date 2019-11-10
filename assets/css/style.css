@@ -13,11 +13,38 @@ body {
 
 #logo {
     float: left;
+    text-decoration: none;
 }
 
 #logo h2 {
     font-family: 'Merriweather', serif;
     font-size: 200%;
     color: #4682b4;
+    text-shadow: 2px 2px 4px #808080;
+}
+
+#scmenu {
+    font-size: 120%;
+    list-style-type: none;
+    letter-spacing: 2px;
+}
+
+#logo, #scmenu {
+    line-height: 75px;
+}
+
+#scmenu li {
+    float: right;
+    margin-right: 30px;
+}
+
+#scmenu a {
+    text-decoration: none;
+    color: inherit;
+}
+
+#scmenu a:hover {
+    color: #4682b4;
+    font-weight: 500;
     text-shadow: 2px 2px 4px #808080;
 }

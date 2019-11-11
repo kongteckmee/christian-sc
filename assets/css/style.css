@@ -101,6 +101,7 @@ hr {
 #welcome-text h3 {
     margin: 20px;
     font-size: 130%;
+    font-weight: 300;
     text-align: center;
 }
 
@@ -126,6 +127,7 @@ hr {
     font-family: 'Merriweather', serif;
     font-size: 130%;
     text-transform: uppercase;
+    text-shadow: 2px 2px 4px #808080;
 }
 
 #left {
@@ -217,5 +219,21 @@ br {
 }
 
 /* ------------------------------------------------------ Section: Event */
+
+#event {
+    height: 300px;
+    background-color: #606060;
+}
+
+#event div {
+    color: #ffebcd;
+    background-color: rgba(0,0,0,.7);
+    width: 24.5%;
+    height: 90%;
+    float: left;
+    padding-top: 30px;
+    text-align: center;
+    margin: 2px;
+}
 
 /* ------------------------------------------------------ Footer */

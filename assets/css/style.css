@@ -61,7 +61,7 @@ body {
 #scmeeting {
     height: 700px;
     width: 100%;
-    background: url("../img/meeting-t.jpg") no-repeat center center
+    background: url("../img/meeting-t.jpg") no-repeat center center;
 }
 
 #scmeetingrange {
@@ -101,14 +101,13 @@ hr {
 #welcome-text h3 {
     margin: 20px;
     font-size: 130%;
-    font-family: 'Roboto', sans-serif;
     text-align: center;
 }
 
 /* ------------------------------------------------------ Section: About */
 
 #about {
-    height: 600px;
+    height: 500px;
 }
 
 #about h1 {
@@ -123,17 +122,23 @@ hr {
     letter-spacing: 1px;
 }
 
+#about h2 {
+    font-family: 'Merriweather', serif;
+    font-size: 130%;
+    text-transform: uppercase;
+}
+
 #left {
     margin-right: 30px;
     padding-top: 30px;
-    width: 33%;
+    width: 30%;
     float: left;
 }
 
 #right {
     margin-right: 30px;
     padding-top: 30px;
-    width: 33%;
+    width: 30%;
     float: right;
 }
 
@@ -153,26 +158,62 @@ br {
 .left-right-side {
     width: 50%;
     float: right;
-    line-height: 20px;
+    padding-top: 40px;
     clear: both;
-    margin-bottom: 100px;
+    margin-left: 20px;
+    margin-bottom: 50px;
 }
 
 .middle {
     width: 50%;
     float: right;
-    line-height: 20px;
-    clear: both;
-    margin-bottom: 100px;
+    padding-top: 40px;
+    margin-right: 20px;
 }
 
 #container {
     width: 150px;
     height: 150px;
-    border: 1px solid #cccccc;
+    border: 3px solid #cccccc;
     border-radius: 50%;
     margin-left: 20px;
     margin-bottom: 20px;
+}
+
+#contain-study {
+    background: url("../img/study-group.jpg") no-repeat center center;
+    height: 100%;
+    border-radius: 50%;
+}
+
+#contain-wifi {
+    background: url("../img/free-wifi.jpg") no-repeat center center;
+    height: 100%;
+    border-radius: 50%;
+}
+
+#contain-seminar {
+    background: url("../img/truth-seminar.jpg") no-repeat center center;
+    height: 100%;
+    border-radius: 50%;
+}
+
+#contain-bible {
+    background: url("../img/bible-study.jpg") no-repeat center center;
+    height: 100%;
+    border-radius: 50%;
+}
+
+#contain-cafe {
+    background: url("../img/cafe.jpg") no-repeat center center;
+    height: 100%;
+    border-radius: 50%;
+}
+
+#contain-books {
+    background: url("../img/spiritual-book.jpg") no-repeat center center;
+    height: 100%;
+    border-radius: 50%;
 }
 
 /* ------------------------------------------------------ Section: Event */

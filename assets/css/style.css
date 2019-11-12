@@ -221,19 +221,52 @@ br {
 /* ------------------------------------------------------ Section: Event */
 
 #event {
-    height: 300px;
-    background-color: #606060;
+    height: 250px;
+    /*background-color: #a9a9a9;*/
 }
 
 #event div {
     color: #ffebcd;
-    background-color: rgba(0,0,0,.7);
-    width: 24.5%;
+    width: 19.2%;
     height: 90%;
     float: left;
     padding-top: 30px;
     text-align: center;
-    margin: 2px;
+    margin: 5px;
+}
+
+#event h2 {
+    color: #ffffff;
+    font-family: 'Merriweather', serif;
+    margin-bottom: 20px;
+}
+
+#event h3 {
+    margin-top: 20px;
+}
+
+.black {
+    background-color: rgba(48,48,48,.8);
+}
+
+.black h2 {
+    line-height: 120px;
+    text-transform: uppercase;
+    text-shadow: 5px 5px 0px rgba(0,0,0,0.2);
+}
+
+.black h3 {
+    color: #ffffff;
+    font-size: 200%;
+    text-shadow: 5px 5px 0px rgba(0,0,0,0.2);
+}
+
+.grey {
+    background-color: rgba(105,105,105,.8);
+}
+
+.green {
+    background-color: rgba(102,102,0,.8);
 }
 
 /* ------------------------------------------------------ Footer */

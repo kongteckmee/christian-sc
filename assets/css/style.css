@@ -270,3 +270,18 @@ br {
 }
 
 /* ------------------------------------------------------ Footer */
+
+footer {
+    margin-top: 10px;
+    border-top: 2px solid #fff;
+    height: 40px;
+    width: 100%;
+    background-color: #333333;
+}
+    
+footer #footer-copyright {
+    color: #fff;
+    line-height: 30px;
+    font-size: 80%;
+    text-align: center;
+}

@@ -64,6 +64,24 @@ body {
     background: url("../img/meeting-t.jpg") no-repeat center center;
 }
 
+#scgallery {
+    height: 550px;
+    width: 100%;
+    background: url("../img/r_combined-t.jpg") no-repeat center center;
+    margin-left: 140px;
+    overflow: hidden;
+}
+
+#outing {
+    height: 530px;
+    width: 100%;
+}
+
+#photo {
+    height: 530px;
+    width: 100%;
+}
+
 #scmeetingrange {
     height: 700px;
     width: 100%;
@@ -81,9 +99,56 @@ body {
     position: absolute;
 }
 
+#gallery-text {
+    width: 350px;
+    height: 350px;
+    color: #fefcff; /* Milky white */
+    background-color: rgba(219,112,147,.7);
+    padding-top:20px;
+    bottom: 200px;
+    right: 940px;
+    position: absolute;
+}
+
+iframe {
+    margin-left: 30px;
+}
+
+#outing-text {
+    width: 350px;
+    height: 350px;
+    color: #fefcff; /* Milky white */
+    background-color: rgba(60,179,113,.7);
+    padding-top:20px;
+    bottom: -330px;
+    right: 30px;
+    position: absolute;
+}
+
+#photo-text{
+    width: 350px;
+    height: 350px;
+    color: #fefcff; /* Milky white */
+    background-color: rgba(60,179,113,.7);
+    padding-top:20px;
+    bottom: -900px;
+    right: 30px;
+    position: absolute;
+}
+
 #welcome-text h1 {
     margin-bottom: 5px;
     font-size: 300%;
+    font-family: 'Merriweather', serif;
+    text-transform: uppercase;
+    text-align: center;
+    letter-spacing: 4px;
+}
+
+#gallery-text h1, #outing-text h1, #photo-text h1 {
+    margin-top: 10px;
+    margin-bottom: 10px;
+    font-size: 250%;
     font-family: 'Merriweather', serif;
     text-transform: uppercase;
     text-align: center;
@@ -100,6 +165,13 @@ hr {
 
 #welcome-text h3 {
     margin: 20px;
+    font-size: 130%;
+    font-weight: 300;
+    text-align: center;
+}
+
+#gallery-text h3, #outing-text h3, #photo-text h3 {
+    margin: 35px;
     font-size: 130%;
     font-weight: 300;
     text-align: center;

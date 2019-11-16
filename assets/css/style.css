@@ -77,10 +77,6 @@ body {
     width: 100%;
 }
 
-#photo {
-    column-count: 2px;
-}
-
 #photo img {
     width: 49%;
     margin-left: 4px;

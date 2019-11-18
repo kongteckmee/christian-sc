@@ -19,6 +19,7 @@ header {
 
 #logo {
     float: left;
+    margin-left: 20px;
     text-decoration: none;
 }
 
@@ -105,7 +106,7 @@ hr {
     height: 500px;
 }
 
-#about h1, h2 {
+#about h1, #about h2 {
     font-family: 'Merriweather', serif;
     text-transform: uppercase;
     text-shadow: 2px 2px 4px #808080;
@@ -124,7 +125,7 @@ hr {
     font-size: 130%;
 }
 
-#about #left, #right {
+#left, #right {
     margin-right: 30px;
     padding-top: 30px;
     width: 30%;
@@ -447,4 +448,51 @@ button {
 button:hover {
     background-color: #fafafa;
     color: #4682b4;
+}
+
+/* ------------------------------------------------------ Media Queries */
+
+@media (min-width: 768px) and (max-width: 1024px) and (orientation: landscape) {
+    #welcome-text {
+        bottom: -10px;
+    }
+
+    #about {
+        width: 70%;
+        height: 800px;
+        margin: 0 auto;
+    }
+    
+    #left, #center, #right {
+        width: 100%;
+        padding: 0;
+        float: left;
+        clear: both;
+    }
+    
+    .left-right-side, .middle {
+        margin-right: 20px;
+    }
+    
+    #container {
+        margin-left: 100px;
+    }
+    
+    
+    
+}
+    
+@media (min-width: 320px) and (max-width: 767px) {
+    #welcome-text {
+        bottom: -100px;
+        left: 0;
+    }
+    
+    #scmenu {
+        clear: left;
+        float: left;
+        margin-left: 20px;
+        margin-bottom: 20px;
+        line-height: 25px;
+    }
 }

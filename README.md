@@ -1,5 +1,4 @@
 # Christian Student Center
-
 This is a 3-page static User Centric frontend development website for Christian Student Center. The website started with a warmed welcome with background picture of the saints in student center. This followed by the simple introduction of the usage of student center, that to give a whole picture on what a campus student can do at this place. The page ended with what are the upcoming events for campus students.
 
 The second page, which is the gallery page displayed the collection from variety of events in video and pictures form. While the final page is Meet Us page, that allowed the users to contact the saints, either by the contact details given, or by filling out the form to have the saints to contact them.
@@ -69,15 +68,56 @@ The wireframes below created to have a design view before the code development o
  - The Church News in PDF format can be downloaded. This is to let the users to get the most updated reports from what is happening in Christian Student Center.
 
 ## Technologies Used
-
 The below are the technologies used to complete this project:
 
 [Balsamiq](https://balsamiq.com/)
+ - Balsamiq used to create the wireframes for each page of the website when designing the UX of the project.
+
 [AWS Cloud9](https://aws.amazon.com/cloud9/)
+ - Cloud9 IDE used to write the code in HTML5 & CSS3 when creating the website.
+
 [HTML5](https://en.wikipedia.org/wiki/HTML5)
+ - HTML5 used to create the layout of the website.
+
 [CSS3](https://en.wikipedia.org/wiki/Cascading_Style_Sheets)
+ - CSS3 used to style the layout that have been coded in HTML5.
+
 [Google Font](https://fonts.google.com/)
+ - Google Fonts imported to be the fonts in the website. Two types of fonts used:
+ -- Merriweather - The font family for the logo and the title.
+ -- Roboto - The font family for the texts.
+
 [Font Awesome](https://fontawesome.com/)
+ - Font Awesome used to provide the icons for Upcoming Event section, and the icons for social media: Facebook & Instagram.
+
 [Git & GitHub](https://github.com/)
+ - Git used for version control, and GitHub used as a remote repository and the hosting of the website.
+ 
 [PIXLR](https://pixlr.com/)
+ - PIXLR used to edit and crop the pictures in the website.
+ 
 [Windows 10's Video Editor](https://www.howtogeek.com/355524/how-to-use-windows-10s-hidden-video-editor/)
+- Windows 10's Video Editor used to create the video in the website.
+
+[YouTube](https://www.youtube.com/)
+- YouTube used to upload the video that have created. This is to display the video in website by using iframe coding.
+
+## Testing
+
+## Deployment
+
+## Credits
+### Content
+ - All wording are used by the permission from the saints in Christian Student Center.
+
+### Media
+
+ - The pictures of events used in each of the page were obtained from the saints in Christian Student Center, together with their permission. 
+ - The pictures in About section at Home page were sourced from Google search. All pictures in this section can be reused by anyone that get from Google search the same.
+ - The video-'Campus Outing' created with the permission from the saints in Christian Student Center.
+
+### Acknowledgements
+ - Thanks to Dick Vlaanderen, my mentor from Code Institute for his guidance during the project.
+ - Thanks to the saints in Christian Student Center, as I received the inspiration for this project from them. They suggested on what to be in the website and provided me with all related pictures.
+ - I get the idea of the layout of website from the 'Love Running' subject under CSS Fundamentals module from Code Institute.
+ - In the middle of the project, I refer to [w3schools.com](https://www.w3schools.com/) especially when putting all the codes together, and also to pick the suitable color to the fonts and the pages.

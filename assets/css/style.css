@@ -62,7 +62,7 @@ header {
 #scmeetingrange {
     height: 700px;
     width: 100%;
-    background: url("../img/meeting-t.jpg") no-repeat center center;
+    background: url("../img/home/meeting-t.jpg") no-repeat center center;
     overflow: hidden;
 }
 
@@ -178,37 +178,37 @@ br {
 }
 
 #contain-study {
-    background: url("../img/study-group.jpg") no-repeat center center;
+    background: url("../img/home/study-group.jpg") no-repeat center center;
     height: 100%;
     border-radius: 50%;
 }
 
 #contain-wifi {
-    background: url("../img/free-wifi.jpg") no-repeat center center;
+    background: url("../img/home/free-wifi.jpg") no-repeat center center;
     height: 100%;
     border-radius: 50%;
 }
 
 #contain-seminar {
-    background: url("../img/truth-seminar.jpg") no-repeat center center;
+    background: url("../img/home/truth-seminar.jpg") no-repeat center center;
     height: 100%;
     border-radius: 50%;
 }
 
 #contain-bible {
-    background: url("../img/bible-study.jpg") no-repeat center center;
+    background: url("../img/home/bible-study.jpg") no-repeat center center;
     height: 100%;
     border-radius: 50%;
 }
 
 #contain-cafe {
-    background: url("../img/cafe.jpg") no-repeat center center;
+    background: url("../img/home/cafe.jpg") no-repeat center center;
     height: 100%;
     border-radius: 50%;
 }
 
 #contain-books {
-    background: url("../img/spiritual-book.jpg") no-repeat center center;
+    background: url("../img/home/spiritual-book.jpg") no-repeat center center;
     height: 100%;
     border-radius: 50%;
 }
@@ -333,7 +333,7 @@ footer #footer-copyright {
     height: 650px;
     width: 100%;
     clear: both;
-    background: url("../img/desa.jpg") no-repeat center center;
+    background: url("../img/meet/desa.jpg") no-repeat center center;
 }
 
 #location {

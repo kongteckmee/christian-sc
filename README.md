@@ -17,8 +17,18 @@ The wireframes below created to have a design view before the code development o
 
 #### Desktop View
 
+![Home Page] <img src="assets/img/wireframe/home-d.png" align=top width=170>&nbsp;>
+![Gallery Page] <img src="assets/img/wireframe/gallery-d.png" align=top width=170>&nbsp;>
+![Meet Us Page] <img src="assets/img/wireframe/meet-d.png" align=top width=170>&nbsp;>
 
 #### Tablets View
 
+![Home Page] <img src="assets/img/wireframe/home-t.png" align=top width=170>&nbsp;>
+![Gallery Page] <img src="assets/img/wireframe/gallery-t.png" align=top width=170>&nbsp;>
+![Meet Us Page] <img src="assets/img/wireframe/meet-t.png" align=top width=170>&nbsp;>
 
 #### Mobile View
+
+![Home Page] <img src="assets/img/wireframe/home-m.png" align=top width=170>&nbsp;>
+![Gallery Page] <img src="assets/img/wireframe/gallery-m.png" align=top width=170>&nbsp;>
+![Meet Us Page] <img src="assets/img/wireframe/meet-m.png" align=top width=170>&nbsp;>

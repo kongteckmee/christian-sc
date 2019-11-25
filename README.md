@@ -17,21 +17,21 @@ The wireframes below created to have a design view before the code development o
 
 #### Desktop View
 
-##### [Home] | [Gallery] | [Meet Us]
-<img src="assets/img/wireframe/home-d.png" align=top width=170>&nbsp;>
+###### [Home] | [Gallery] | [Meet Us]
+<img src="assets/img/wireframe/index-d.png" align=top width=170>&nbsp;>
 <img src="assets/img/wireframe/gallery-d.png" align=top width=170>&nbsp;>
 <img src="assets/img/wireframe/meet-d.png" align=top width=170>&nbsp;>
 
 #### Tablets View
 
-##### [Home] | [Gallery] | [Meet Us]
-<img src="assets/img/wireframe/home-t.png" align=top width=170>&nbsp;>
+###### [Home] | [Gallery] | [Meet Us]
+<img src="assets/img/wireframe/index-t.png" align=top width=170>&nbsp;>
 <img src="assets/img/wireframe/gallery-t.png" align=top width=170>&nbsp;>
 <img src="assets/img/wireframe/meet-t.png" align=top width=170>&nbsp;>
 
 #### Mobile View
 
-##### [Home] | [Gallery] | [Meet Us]
-<img src="assets/img/wireframe/home-m.png" align=top width=170>&nbsp;>
+###### [Home] | [Gallery] | [Meet Us]
+<img src="assets/img/wireframe/index-m.png" align=top width=170>&nbsp;>
 <img src="assets/img/wireframe/gallery-m.png" align=top width=170>&nbsp;>
 <img src="assets/img/wireframe/meet-m.png" align=top width=170>&nbsp;>

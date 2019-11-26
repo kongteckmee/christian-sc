@@ -106,30 +106,30 @@ The below are the technologies used to complete this project:
 The website is tested in a few ways. Below are the testing process to ensure they are works as intended for the users to achieve their goals.
 
 1. Logo & Navigation Bar:
-    - Go to the website.
-    - Hover to each button and verify if the text changed to blue color.
-    - Click on "Gallery" button and verify if can go "Gallery" page and the shadow on "Gallery" button appear.
-    - Click on "Meet Us" button and verify if can go "Meet Us" page and the shadow on "Meet Us" button appear.
-    - Click on the logo and verify if can go back to "Home" page and the shadow on "Home" button appear.
+- Go to the website.
+- Hover to each button and verify if the text changed to blue color.
+- Click on "Gallery" button and verify if can go "Gallery" page and the shadow on "Gallery" button appear.
+- Click on "Meet Us" button and verify if can go "Meet Us" page and the shadow on "Meet Us" button appear.
+- Click on the logo and verify if can go back to "Home" page and the shadow on "Home" button appear.
 
 2. Video:
-    - Go to "Gallery" page.
-    - Click on the play button and verify if the video will play until the end.
+- Go to "Gallery" page.
+- Click on the play button and verify if the video will play until the end.
 
 3. Social Media Icon:
-    - Go to "Meet Us" page.
-    - Hover to the "Facebook" and "Instagram" icon and verify if the icon changed to blue color.
-    - Click on "Facebook" icon and verify if the Facebook account page for Christian Student Center will be opened in another tab.
-    - Click on "Instagram" icon and verify if the Instagram account page for Christian Student Center will be opened in another tab.
+- Go to "Meet Us" page.
+- Hover to the "Facebook" and "Instagram" icon and verify if the icon changed to blue color.
+- Click on "Facebook" icon and verify if the Facebook account page for Christian Student Center will be opened in another tab.
+- Click on "Instagram" icon and verify if the Instagram account page for Christian Student Center will be opened in another tab.
 
 4. Contact Form:
-    - Go to "Meet Us" page.
-    - Hover to the text field for Full Name and Email Address and verify if notification for filling details appear.
-    - Hover to the text fields and text area and verify if the border changed to blue color.
-    - Try to submit an empty form and verify an error message at the first required field appear.
-    - Try to submit a form with name but with invalid email address and verify an error message appear.
-    - Try to submit the form with all valid inputs and verify if the form resets itself.
-    - Try to drag the text area and verify if it is fixed at the initial size.
+- Go to "Meet Us" page.
+- Hover to the text field for Full Name and Email Address and verify if notification for filling details appear.
+- Hover to the text fields and text area and verify if the border changed to blue color.
+- Try to submit an empty form and verify an error message at the first required field appear.
+- Try to submit a form with name but with invalid email address and verify an error message appear.
+- Try to submit the form with all valid inputs and verify if the form resets itself.
+- Try to drag the text area and verify if it is fixed at the initial size.
 
 ## Deployment
 

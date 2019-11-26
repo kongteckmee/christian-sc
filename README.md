@@ -114,7 +114,8 @@ The website is tested in a few ways. Below are the testing process to ensure the
 
 2. Video:
     1. Go to "Gallery" page.
-    2. Click on the play button and verify if the video will play until the end.
+    2. Verify if the video is display at website. 
+    3. Click on the play button and verify if the video will play until the end.
 
 3. Social Media Icon:
     1. Go to "Meet Us" page.
@@ -124,12 +125,22 @@ The website is tested in a few ways. Below are the testing process to ensure the
 
 4. Contact Form:
     1. Go to "Meet Us" page.
-    2. Hover to the text field for Full Name and Email Address and verify if notification for filling details appear.
+    2. Hover to the text fields and text area and verify if notification for required field appear.
     3. Hover to the text fields and text area and verify if the border changed to blue color.
     4. Try to submit an empty form and verify an error message at the first required field appear.
     5. Try to submit a form with name but with invalid email address and verify an error message appear.
     6. Try to submit the form with all valid inputs and verify if the form resets itself.
     7. Try to drag the text area and verify if it is fixed at the initial size.
+
+The website is tested at browsers below and it works as intended:
+1. Google Chrome
+2. Firefox
+3. Internet Explorer
+
+The Chrome Dev Tools below used to test all pages with screen size in simulated devices and verify all pages displayed as intended:
+1. 
+2. 
+3. .
 
 ## Deployment
 

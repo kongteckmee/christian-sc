@@ -8,7 +8,7 @@ This website acts as an official website of Christian Student Center, showing th
 
 ### User Stories
  - As a campus student that looking for meaningful life, I want to see an official website that can make an introduction to Christian Student Center and the way to know more about this place and the saints.
- - As a parent to campus student, I want to see who my children connected to and what they are pursuing at here besides studying at the campus.
+ - As the parents to campus student, I want to see who my children connected to and what they are pursuing besides studying at the campus.
  - As the saints at Christian Student Center, I want to be able to show what is the main usage of this place, to show the events that we offer to the campus students and the way they can get in touch with us.
 
 ### Wireframes
@@ -37,7 +37,7 @@ The wireframes below created to have a design view before the code development o
 
 ###### Feature 1 - Navigation Bar
  - This is a navigation bar at upper right side that can bring the users to each of the page of website.
- - The navigation bar will be under the logo at upper left side when the screen size is in 767px in maximum.
+ - The navigation bar will be under the logo at upper left side when the screen size is in 767px (Maximum).
 
 ###### Feature 2 - Footer
  - The footer contain a short line of text for copyright notice.
@@ -84,8 +84,8 @@ The below are the technologies used to complete this project:
 
 [Google Font](https://fonts.google.com/)
  - Google Fonts imported to be the fonts in the website. Two types of fonts used:
- -- Merriweather - The font family for the logo and the title.
- -- Roboto - The font family for the texts.
+    - Merriweather - The font family for the logo and the title.
+    - Roboto - The font family for the texts.
 
 [Font Awesome](https://fontawesome.com/)
  - Font Awesome used to provide the icons for Upcoming Event section, and the icons for social media: Facebook and Instagram.

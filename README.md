@@ -85,7 +85,7 @@ The below are the technologies used to complete this project:
 [Google Font](https://fonts.google.com/)
  - Google Fonts imported to be the fonts in the website. Two types of fonts used:
     - Merriweather - The font family for the logo and the title.
-    - Roboto - The font family for the texts.
+    - Roboto - The font family for the content.
 
 [Font Awesome](https://fontawesome.com/)
  - Font Awesome used to provide the icons for Upcoming Event section, and the icons for social media: Facebook and Instagram.
@@ -103,6 +103,33 @@ The below are the technologies used to complete this project:
 - YouTube used to upload the video that have created. This is to display the video in website by using iframe coding.
 
 ## Testing
+The website is tested in a few ways. Below are the testing process to ensure they are works as intended for the users to achieve their goals.
+
+1. Logo & Navigation Bar:
+    i. Go to the website.
+    ii. Hover to each button and verify if the text changed to blue color.
+    iii. Click on "Gallery" button and verify if can go "Gallery" page and the shadow on "Gallery" button appear.
+    iv. Click on "Meet Us" button and verify if can go "Meet Us" page and the shadow on "Meet Us" button appear.
+    v. Click on the logo and verify if can go back to "Home" page and the shadow on "Home" button appear.
+
+2. Video:
+    i. Go to "Gallery" page.
+    ii. Click on the play button and verify if the video will play until the end.
+
+3. Social Media Icon:
+    i. Go to "Meet Us" page.
+    ii. Hover to the "Facebook" and "Instagram" icon and verify if the icon changed to blue color.
+    iii. Click on "Facebook" icon and verify if the Facebook account page for Christian Student Center will be opened in another tab.
+    iv. Click on "Instagram" icon and verify if the Instagram account page for Christian Student Center will be opened in another tab.
+
+4. Contact Form:
+    i. Go to "Meet Us" page.
+    ii. Hover to the text field for Full Name and Email Address and verify if notification for filling details appear.
+    iii. Hover to the text fields and text area and verify if the border changed to blue color.
+    iv. Try to submit an empty form and verify an error message at the first required field appear.
+    v. Try to submit a form with name but with invalid email address and verify an error message appear.
+    vi. Try to submit the form with all valid inputs and verify if the form resets itself.
+    vii. Try to drag the text area and verify if it is fixed at the initial size.
 
 ## Deployment
 
@@ -111,7 +138,6 @@ The below are the technologies used to complete this project:
  - All wording are used by the permission from the saints in Christian Student Center.
 
 ### Media
-
  - The pictures of events used in each of the page were obtained from the saints in Christian Student Center, together with their permission. 
  - The pictures in About section at Home page were sourced from Google search. All pictures in this section can be reused by anyone that get from Google search the same.
  - The video 'Campus Outing' created with the permission from the saints in Christian Student Center.

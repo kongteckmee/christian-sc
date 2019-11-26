@@ -45,13 +45,13 @@ The wireframes below created to have a design view before the code development o
 ###### Feature 3 - Media Query
  - Each of the page in the website will responsive to the users screen size, either in Desktop, Tablet or Mobile.
 
-###### Feature 3 - Home Page
+###### Feature 4 - Home Page
  - The Home page consists of the picture of the saints with simple welcome texts, simple details of the usage for the Christian Student Center and the upcoming events that can be joined by the campus students.
 
-###### Feature 4 - Gallery Page
+###### Feature 5 - Gallery Page
  - The Gallery page consists of the video and photos collection from variety of events that held, either in Christian Student Center itself, or at outdoor. This is to let the users to know what the saints are doing and encourage more campus students to join them.
 
-###### Feature 5 - Meet Us Page
+###### Feature 6 - Meet Us Page
  - The Meet Us page includes the Opening Hours for Christian Student Center, the exact place of Christian Student Center, and the way the users can contact the saints.
  - A simple contact form is available to let the users to leave a message so the saints can have further contact with them.
 
@@ -74,7 +74,7 @@ The below are the technologies used to complete this project:
  - Balsamiq used to create the wireframes for each page of the website when designing the UX of the project.
 
 [AWS Cloud9](https://aws.amazon.com/cloud9/)
- - Cloud9 IDE used to write the code in HTML5 & CSS3 when creating the website.
+ - Cloud9 IDE used to write the code in HTML5 and CSS3 when creating the website.
 
 [HTML5](https://en.wikipedia.org/wiki/HTML5)
  - HTML5 used to create the layout of the website.
@@ -88,7 +88,7 @@ The below are the technologies used to complete this project:
  -- Roboto - The font family for the texts.
 
 [Font Awesome](https://fontawesome.com/)
- - Font Awesome used to provide the icons for Upcoming Event section, and the icons for social media: Facebook & Instagram.
+ - Font Awesome used to provide the icons for Upcoming Event section, and the icons for social media: Facebook and Instagram.
 
 [Git & GitHub](https://github.com/)
  - Git used for version control, and GitHub used as a remote repository and the hosting of the website.
@@ -114,10 +114,10 @@ The below are the technologies used to complete this project:
 
  - The pictures of events used in each of the page were obtained from the saints in Christian Student Center, together with their permission. 
  - The pictures in About section at Home page were sourced from Google search. All pictures in this section can be reused by anyone that get from Google search the same.
- - The video-'Campus Outing' created with the permission from the saints in Christian Student Center.
+ - The video 'Campus Outing' created with the permission from the saints in Christian Student Center.
 
 ### Acknowledgements
- - Thanks to Dick Vlaanderen, my mentor from Code Institute for his guidance during the project.
- - Thanks to the saints in Christian Student Center, as I received the inspiration for this project from them. They suggested on what to be in the website and provided me with all related pictures.
+ - Thanks to [Dick Vlaanderen](https://github.com/dickvla), my mentor from Code Institute for his guidance during the project.
+ - Thanks to the saints in Christian Student Center, as I received the inspiration for this project from them. They suggested on what to be in the website and provided me with all related pictures and details.
  - I get the idea of the layout of website from the 'Love Running' subject under CSS Fundamentals module from Code Institute.
  - In the middle of the project, I refer to [w3schools.com](https://www.w3schools.com/) especially when putting all the codes together, and also to pick the suitable color to the fonts and the pages.

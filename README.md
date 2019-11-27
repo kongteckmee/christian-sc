@@ -3,6 +3,8 @@ This is a 3-page static User Centric frontend development website for Christian 
 
 The second page, which is the gallery page displayed the collection from variety of events in video and pictures form. While the final page is Meet Us page, that allowed the users to contact the saints, either by the contact details given, or by filling out the form to have the saints to contact them.
 
+The deployed website is at https://kongteckmee.github.io/christian-sc/
+
 ## UX
 This website acts as an official website of Christian Student Center, showing the usage of this place and the events offer to the campus students. The website should describe the student center in a very simple way, yet giving the information on what is going on at this place. Also, it should let the users know on where is the place and how they can contact the saints.
 
@@ -143,6 +145,8 @@ The Chrome Dev Tools below used to test all pages with screen size in simulated 
 3. .
 
 ## Deployment
+This project is published on GitHub pages, it can be viewed at: 
+https://kongteckmee.github.io/christian-sc/
 
 ## Credits
 ### Content

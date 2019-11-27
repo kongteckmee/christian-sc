@@ -452,13 +452,14 @@ button:hover {
 
 /* ------------------------------------------------------ Media Queries */
 
-@media screen and (max-width: 1200px) and (orientation: landscape) {
+@media (min-width: 768px) and (max-width: 991px) {
     #welcome-text {
-        bottom: -10px;
+        bottom: 300px; 
+        right: 50px;
     }
 
     #about {
-        width: 70%;
+        width: 80%;
         height: 1200px;
         margin: 0 auto;
     }
@@ -475,7 +476,7 @@ button:hover {
     }
     
     .container {
-        margin-left: 70px;
+        margin-left: 65px;
     }
     
     #event div {
@@ -500,7 +501,7 @@ button:hover {
     
     #video iframe {
         width: 90%;
-        height: 550px;
+        height: 500px;
     }
     
     #photo-text h3 {
@@ -508,23 +509,24 @@ button:hover {
     }
     
     #meet {
-        height: 700px;
+        height: 902px;
+        /*background: url("../img/meet/desa.jpg") no-repeat center center;*/
     }
 
     #location {
-        width: 25%;
-        margin: 40px 0 0 30px;
-        padding: 30px 30px 30px 30px;
+        width: 33%;
+        margin: 175px 0 0 20px;
+        padding: 30px 20px 30px 20px;
     }
     
     #form {
         width: 45%;
-        margin: 140px 30px 0 0;
+        margin: 220px 20px 0 10px;
     }
 
 }
     
-@media screen and (max-width: 767px) {
+@media (min-width: 360px) and (max-width: 767px) {
     #welcome-text {
         bottom: -100px;
         left: 0;

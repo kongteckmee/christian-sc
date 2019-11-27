@@ -145,7 +145,8 @@ The Chrome Dev Tools below used to test all pages with screen size in simulated 
 3. .
 
 ## Deployment
-This project is published on GitHub pages, it can be viewed at: 
+This project is published on GitHub pages, it can be viewed at:
+
 https://kongteckmee.github.io/christian-sc/
 
 ## Credits

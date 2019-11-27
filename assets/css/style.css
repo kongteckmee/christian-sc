@@ -168,7 +168,7 @@ br {
     margin-right: 20px;
 }
 
-#container {
+.container {
     width: 150px;
     height: 150px;
     border: 3px solid #cccccc;
@@ -474,7 +474,7 @@ button:hover {
         margin-right: 20px;
     }
     
-    #container {
+    .container {
         margin-left: 70px;
     }
     
@@ -555,7 +555,7 @@ button:hover {
         margin-right: 20px;
     }
     
-    #container {
+    .container {
         margin-left: 20px;
     }
     

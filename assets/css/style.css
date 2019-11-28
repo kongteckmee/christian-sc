@@ -528,16 +528,16 @@ button:hover {
     
 @media (min-width: 360px) and (max-width: 767px) {
     #welcome-text {
-        width: 350px;
+        width: 310px;
         height: 185px;
         padding-top: 15px;
-        bottom: -130px;
-        right: 5px;
+        bottom: -100px;
+        right: 25px;
     }
     
     #welcome-text h1 {
         margin-bottom: 10px;
-        font-size: 250%;
+        font-size: 240%;
     }
 
     hr {
@@ -547,7 +547,7 @@ button:hover {
 
     #welcome-text h3 {
         margin: 20px;
-        font-size: 110%;
+        font-size: 100%;
         font-weight: 300;
     }
 

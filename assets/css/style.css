@@ -480,7 +480,7 @@ button:hover {
     }
     
     #event div {
-        width: 100%;
+        width: 96%;
         height: 150px;
         padding: 10px;
         clear: both;
@@ -510,7 +510,7 @@ button:hover {
     
     #meet {
         height: 902px;
-        /*background: url("../img/meet/desa.jpg") no-repeat center center;*/
+        background: url("../img/meet/desa_tab.jpg") no-repeat center center;
     }
 
     #location {

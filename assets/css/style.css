@@ -70,8 +70,8 @@ header {
     width: 400px;
     height: 220px;
     padding-top:20px;
-    bottom: 35px; /* Fixed the welcome text box-bottom */
-    right: 100px; /* Fixed the welcome text box-right */
+    bottom: 15px; /* Fixed the welcome text box-bottom */
+    right: 15px; /* Fixed the welcome text box-right */
     background-color: rgba(212,175,55,.7);
     color: #fefcff; /* Milky white */
     position: absolute;
@@ -454,8 +454,8 @@ button:hover {
 
 @media (min-width: 768px) and (max-width: 991px) {
     #welcome-text {
-        bottom: 300px; 
-        right: 50px;
+        bottom: 250px; 
+        right: 10px;
     }
 
     #about {

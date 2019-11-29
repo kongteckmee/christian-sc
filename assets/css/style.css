@@ -470,7 +470,7 @@ button:hover {
     }
     
     .left-right-side, .middle {
-        width: 50%;
+        width: 50%; /* Suit tablet screen size */
         margin-right: 20px;
     }
     
@@ -562,7 +562,7 @@ button:hover {
     }
     
     #left, #center, #right {
-        width: 92%; /* Suit mobile device */
+        width: 92%; /* Suit mobile screen size */
         padding: 15px;
         float: left;
     }

@@ -141,10 +141,13 @@ The website is tested at browsers below and it works as intended:
 2. Firefox
 3. Internet Explorer
 
-The Chrome Dev Tools below used to test all pages with screen size in simulated devices and verify all pages displayed as intended:
-1. 
-2. 
-3. .
+The Chrome DevTools used to test all pages with screen size in simulated devices below and verify all pages displayed as intended:
+1. iPad - The width for screen size of 768px and 991px
+2. Galaxy S5 - The width for screen size of 360px and 767px
+
+The website also tested in physical devices below to ensure all pages displayed exactly as intended:
+1. iPad a1893 - The width for screen size of 768px and 991px
+2. Nova 4 - he width for screen size of 360px and 767px
 
 ## Deployment
 This project is published on GitHub pages, it can be viewed at:

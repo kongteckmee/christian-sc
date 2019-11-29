@@ -149,6 +149,9 @@ The website also tested in physical devices below to ensure all pages displayed 
 1. iPad a1893 - The width for screen size of 768px and 991px
 2. Nova 4 - The width for screen size of 360px and 767px
 
+#### Issue
+ - The contact form is not working to send the messages. It will resets itself when the users click the Send button. This function will be implemented later.
+
 ## Deployment
 This project is published on GitHub pages, it can be viewed at:
 

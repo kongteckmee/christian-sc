@@ -3,22 +3,22 @@
 * {
     margin: 0;
     padding: 0;
-    border: 0;
+    border: 0; /* Set all the margin, padding & border to 0 before styling */
 }
 
 body {
     font-family: 'Roboto', sans-serif;
-    color: #696969; /*Grey color */
+    color: #696969; /* Grey color */
 }
 
 /* ------------------------------------------------------ Header */
 
 header {
-    line-height: 75px;
+    line-height: 75px; /* Set the height */
 }
 
 #logo {
-    float: left;
+    float: left; /* Set the logo to the left */
     margin-left: 20px;
     text-decoration: none;
 }
@@ -32,29 +32,29 @@ header {
 
 #scmenu {
     font-size: 120%;
-    list-style-type: none;
+    list-style-type: none; /* Remove bullets style */
     letter-spacing: 2px;
 }
 
 #scmenu li {
-    float: right;
+    float: right; /* Set the menu to the right */
     margin-right: 30px;
 }
 
 #scmenu a {
     text-decoration: none;
-    color: inherit;
+    color: inherit; /* Inherit the color from body */
 }
 
 #scmenu a:hover {
-    color: #4682b4; /* Steel Blue color */
+    color: #4682b4; /* Change to Steel Blue color */
     font-weight: 500;
     text-shadow: 2px 2px 4px #808080;
 }
 
 .scactive {
     font-weight: 500;
-    text-shadow: 2px 2px 4px #808080;
+    text-shadow: 2px 2px 4px #808080; /* Activate this when access a specific page */
 }
 
 /* ------------------------------------------------------ Home-Section: Welcome */
@@ -63,7 +63,7 @@ header {
     height: 700px;
     width: 100%;
     background: url("../img/home/meeting-t.jpg") no-repeat center center;
-    overflow: hidden;
+    overflow: hidden; /* Hide the background in specific area */
 }
 
 #welcome-text {
@@ -87,7 +87,7 @@ header {
 }
 
 hr {
-    width: 80%;
+    width: 80%; /* The width of horizontal line */
     height: 3px;
     margin-left: auto;
     margin-right: auto;
@@ -128,7 +128,7 @@ hr {
 #left, #right {
     margin-right: 30px;
     padding-top: 30px;
-    width: 30%;
+    width: 30%; /* Set the size of columns for left and right */
 }
 
 #left {
@@ -142,14 +142,14 @@ hr {
 #center {
     padding-top: 30px;
     width: 33%;
-    margin: 0 auto; /* center the div */
+    margin: 0 auto; /* Center the div */
 }
 
 br {
     display: block;
     content: "";
     margin: 2em;
-    font-size: 24%; /* spacing */
+    font-size: 24%; /* Set the spacing between the title and the content */
 }
 
 .left-right-side, .middle {
@@ -174,7 +174,7 @@ br {
     border: 3px solid #cccccc;
     border-radius: 50%;
     margin-left: 20px;
-    margin-bottom: 20px;
+    margin-bottom: 20px; /* The size of container for background*/
 }
 
 #contain-study {
@@ -221,12 +221,12 @@ br {
 
 #event div {
     color: #ffebcd;
-    width: 19.2%;
+    width: 19.2%; /* Set the size of the div for events */
     height: 90%;
     float: left;
     padding-top: 30px;
     text-align: center;
-    margin: 5px;
+    margin: 5px; 
 }
 
 #event h2 {
@@ -260,13 +260,12 @@ br {
 }
 
 .event-green {
-    background-color: rgba(102,102,0,.8);
+    background-color: rgba(102,102,0,.8); /* Green color */
 }
 
 /* ------------------------------------------------------ Footer */
 
 footer {
-    /*margin-top: 5px;*/
     border-top: 1px solid #fff;
     height: 40px;
     width: 100%;
@@ -285,8 +284,8 @@ footer #footer-copyright {
 
 #scgallery {
     width: 100%;
-    clear: both;
     background-color: #e6e2d3;
+    overflow: hidden;
 }
 
 #gallery-text h1, #photo-text h1 {
@@ -315,7 +314,7 @@ footer #footer-copyright {
 
 #video iframe {
     margin: 0 auto;
-    display: block;
+    display: block; /* Set the video in center */
 }
 
 #photo {
@@ -323,7 +322,7 @@ footer #footer-copyright {
 }
 
 #photo img {
-    width: 49%;
+    width: 49%; /* Set 2 columns to display pictures */
     margin-left: 4px;
 }
 
@@ -332,13 +331,13 @@ footer #footer-copyright {
 #meet {
     height: 750px;
     width: 100%;
-    clear: both;
     background: url("../img/meet/desa.jpg") no-repeat center center;
+    overflow: hidden;
 }
 
 #location {
     width: 20%;
-    margin: 120px 0 0 150px; /* Position of the location box in the page*/
+    margin: 120px 0 0 150px; /* Position of location box in the page*/
     padding: 30px 30px 30px 30px;
     float: left;
     background-color: rgba(245,245,220,0.6);
@@ -394,14 +393,14 @@ footer #footer-copyright {
 }
 
 #social i:hover {
-    color: #4682b4;
+    color: #4682b4; /* Icon change to blue color */
 }
 
 /* ------------------------------------------------------ Meet Us: Form */
 
 #form {
     width: 40%;
-    margin: 200px 100px 0 0; /* Position of the form in the page*/
+    margin: 200px 100px 0 0; /* Position of contact form in the page*/
     padding: 20px 35px 20px 35px;
     float: right;
     background-color: rgba(60,60,60,0.8);
@@ -415,7 +414,7 @@ footer #footer-copyright {
 }
 
 textarea {
-    resize: none;
+    resize: none; /* Fixed the size */
 }
 
 .place-input {
@@ -430,7 +429,7 @@ textarea {
 }
 
 .place-input:hover {
-    border-color: #4682b4;
+    border-color: #4682b4; /* Border change to blue color */
 }
 
 button {
@@ -447,7 +446,7 @@ button {
 
 button:hover {
     background-color: #fafafa;
-    color: #4682b4;
+    color: #4682b4; /* Background and text change color */
 }
 
 /* ------------------------------------------------------ Media Queries */
@@ -480,7 +479,7 @@ button:hover {
     }
     
     #event div {
-        width: 96%;
+        width: 96%; /* Fixed the size of div*/
         height: 150px;
         padding: 10px;
         clear: both;
@@ -509,8 +508,8 @@ button:hover {
     }
     
     #meet {
-        height: 902px;
-        background: url("../img/meet/desa_tab.jpg") no-repeat center center;
+        height: 902px; /* Fixed the size of Meet Us page */
+        background: url("../img/meet/desa_tab.jpg") no-repeat center center; /* Background for Tablet screen size */
     }
 
     #location {
@@ -523,7 +522,6 @@ button:hover {
         width: 45%;
         margin: 220px 20px 0 10px;
     }
-
 }
     
 @media (min-width: 360px) and (max-width: 767px) {

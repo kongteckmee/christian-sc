@@ -70,7 +70,7 @@ header {
     width: 400px;
     height: 220px;
     padding-top:20px;
-    bottom: 15px; /* Fixed the welcome text box-bottom */
+    bottom: 35px; /* Fixed the welcome text box-bottom */
     right: 15px; /* Fixed the welcome text box-right */
     background-color: rgba(212,175,55,.7);
     color: #fefcff; /* Milky white */
@@ -330,7 +330,7 @@ footer #footer-copyright {
 /* ------------------------------------------------------ Meet Us: Location */
 
 #meet {
-    height: 650px;
+    height: 750px;
     width: 100%;
     clear: both;
     background: url("../img/meet/desa.jpg") no-repeat center center;
@@ -338,7 +338,7 @@ footer #footer-copyright {
 
 #location {
     width: 20%;
-    margin: 80px 0 0 150px;
+    margin: 120px 0 0 150px; /* Position of the location box in the page*/
     padding: 30px 30px 30px 30px;
     float: left;
     background-color: rgba(245,245,220,0.6);
@@ -401,10 +401,10 @@ footer #footer-copyright {
 
 #form {
     width: 40%;
-    margin: 140px 100px 0 0;
+    margin: 200px 100px 0 0; /* Position of the form in the page*/
     padding: 20px 35px 20px 35px;
     float: right;
-    background-color: rgba(60,60,60,0.6);
+    background-color: rgba(60,60,60,0.8);
     border-radius: 10px;
     color: #fafafa;
 }

@@ -14,7 +14,7 @@ This website acts as an official website of Christian Student Center, showing th
  - As the saints at Christian Student Center, I want to be able to show what is the main usage of this place, to show the events that we offer to the campus students and the way they can get in touch with us.
 
 ### Wireframes
-The wireframes below created to have a design view before the code development of the website. The second and the final page been added during the code development as the need of supporting the goal towards the users. The current version have some differences to what was planned initially.
+The wireframes below created to have a design view before the code development of the website. The second and the final page been added during the code development as the need of supporting the goal towards the users. The current version have some differences in positioning, especially in Mobile screen size.
 
 #### Desktop View
 ###### [Home] | [Gallery] | [Meet Us]
@@ -105,7 +105,7 @@ The below are the technologies used to complete this project:
 - YouTube used to upload the video that have created. This is to display the video in website by using iframe coding.
 
 [Markup Validation Service](https://validator.w3.org/)
-- Markup Validation Service used to check the markup (HTML & CSS) of web documents.
+- Markup Validation Service used to check the markup (HTML & CSS) of the website.
 
 ## Testing
 The website is tested in a few ways. Below are the testing process to ensure they are works as intended for the users to achieve their goals.

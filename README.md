@@ -149,13 +149,19 @@ The website also tested in physical devices below to ensure all pages displayed 
 1. iPad a1893 - The width for screen size of 768px and 991px
 2. Nova 4 - The width for screen size of 360px and 767px
 
+The W3C Markup Validation Service used to check all the markup of this web document. No errors or warnings found.
+
 #### Issue
  - The contact form is not working to send the messages. It will resets itself when the users click the Send button. This function will be implemented later.
 
 ## Deployment
-This project is published on GitHub pages, it can be viewed at:
+The website was developed using Cloud9 IDE and Git was used for version control. While the GitHub used as a remote repository and the hosting of the website. There is no difference between the final deployed version and the development version for this website. 
 
-https://kongteckmee.github.io/christian-sc/
+In order to deploy the project, the following steps are taken:
+1. Select repository named: "christian-sc".
+2. Go to Settings tab.
+3. At GitHub pages section, at dropdown menu under "Source", select "master branch".
+4. Deployment completed and the project published on GitHub pages at: https://kongteckmee.github.io/christian-sc/.
 
 ## Credits
 ### Content

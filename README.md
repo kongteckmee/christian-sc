@@ -147,7 +147,7 @@ The Chrome DevTools used to test all pages with screen size in simulated devices
 
 The website also tested in physical devices below to ensure all pages displayed exactly as intended:
 1. iPad a1893 - The width for screen size of 768px and 991px
-2. Nova 4 - he width for screen size of 360px and 767px
+2. Nova 4 - The width for screen size of 360px and 767px
 
 ## Deployment
 This project is published on GitHub pages, it can be viewed at:

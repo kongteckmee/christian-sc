@@ -149,7 +149,7 @@ The website also tested in physical devices below to ensure all pages displayed 
 1. iPad a1893 - The width for screen size of 768px and 991px
 2. Nova 4 - The width for screen size of 360px and 767px
 
-The W3C Markup Validation Service used to check all the markup of this web document. No errors or warnings found.
+The W3C Markup Validation Service used to check all the markup of the web document. No error or warning found.
 
 #### Issue
  - The contact form is not working to send the messages. It will resets itself when the users click the Send button. This function will be implemented later.

@@ -1,4 +1,6 @@
 # Christian Student Center
+###### Code Institute / User Centric Frontend Development
+
 This is a 3-page static User Centric frontend development website for Christian Student Center. The website started with a warmed welcome with background picture of the saints in student center. This followed by a simple introduction of the usage of student center, that to give a whole picture on what a campus student can do at this place. The page ended with the announcement of the upcoming events for campus students.
 
 The second page, which is the gallery page displayed the collection from variety of events in video and pictures form. While the final page is Meet Us page, that allowed the users to contact the saints, either by the contact details given, or by filling out the contact form to have the saints to contact them.
